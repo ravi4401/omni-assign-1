@@ -21,7 +21,7 @@ if a>=0 and a<=100:
     elif a<45:
         print("F")
     else:
-        print("invalid input")
+        print("wrong input")
 
 
 #QUESTION-2
